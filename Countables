@@ -1,0 +1,99 @@
+Numbers (Kos)
+===========
+
+Numbers are written using arabic numarals, but can be spoken as below by starting with the Ko Root. Including the number info, and ending in either 'n' Cardinal, or 'w' for ordinal.
+
+
+Short numbers can be simply Ko, followed by a list of Digits ending in n
+To get large or small numbers beginning with a 'Da' for 10^n or 'So' for 10^-n Where 'n' is the next digit. Muliple 'Da's require exactly the same number of digits for the exponent part.
+
+Eg The number 23 : Koyuhin
+
+The key number roots:
+    Number  : Ko
+    Ordinal : ~W
+    Cardinal: ~N
+    0 : Chu
+    1 : Si
+    2 : Yu
+    3 : Hi
+    4 : Fa
+    5 : Wu
+    6 : Mi
+    7 : Ji
+    8 : Ba
+    9 : Nu
+    10^     : Da (Zeros on the end)
+    10^-    : So ( Position after decimal point)
+    Point   : Su
+
+Example Numbers:
+
+    10: KoSichun
+    11: KoSisin
+    12: KoSiyun
+
+use Da to raise by 10^n
+
+    100 : Kodayun
+    1000 : Kodahin
+    10_000 : Kodafan
+
+    1500 : Kodahisiwun
+    250_000 : Kodawuyuwun
+    3*10^20 : Kodadayuchohin
+
+Use spoken 'and':'ni' to join separate parts
+
+    100_001 : Kodawunisin  (Ko dawu-ni-si n)
+
+use 'So' to shrink by 10^-n
+
+    0.000_01 : sowusi
+
+Use 'su' To represent a decimal point
+    3.4 : hisofa
+
+Colours
+=========
+Colours are build on numbers but begin with a Ku and end as 'D' for Noun, or 'K' for adjective. Higher numbers largely mean a higher amount of energy.
+
+    Black   : Kuchod 
+    Red     : Kusid
+    Orange  : Kuyud
+    Brown   : Kuhid
+    Yellow  : Kufad
+    Green   : Kuwud
+    Turquose: Kumid
+    Blue    : Kujid
+    Violet  : Kubad
+    White   : Kunud
+
+
+Time (Kid)
+=======
+Future:Kida
+Past:Kiso
+
+Days of the week: (Kijis)
+    Monday      : kijisid
+    Tuesday     : kijiyud
+    Wednesday   : Kijihid
+    Thursday    : Kijifad
+    Friday      : K
+    
+
+
+
+Seasons( KiKus) 
+===============
+
+Seasons are based on the Four natural elements.
+
+    Summer: KiKuhod
+    Spring: KiKu
+
+
+
+
+
